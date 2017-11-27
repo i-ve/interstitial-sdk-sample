@@ -18,8 +18,8 @@
         </activity>
 
         <meta-data android:name="ive_sdk_appcode" android:value="TIdKKXBq9C" />
-        <meta-data android:name="ive_interstitial_sdk_join_button_color" android:resource="@color/colorPrimary" />
-        <meta-data android:name="ive_interstitial_sdk_join_button_text_color" android:resource="@android:color/white" />
+        <meta-data android:name="ive_interstitial_sdk_join_button_color" android:resource="@android:color/white" />
+        <meta-data android:name="ive_interstitial_sdk_join_button_text_color" android:resource="@android:color/black" />
     </application>
 
 </manifest>
